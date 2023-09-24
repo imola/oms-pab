@@ -1,0 +1,23 @@
+---
+title: "Information for Members of PAB"
+author: "OMS Parent Advisory Board"
+format: pdf
+editor: visual
+---
+
+## Members
+
+-   Deborah
+-   Nikki
+-   Ben
+-   Liam
+
+## \![Holidays and Event Calendar\]
+
+```         
+![Calendar](Events_Calendar.jpeg)
+```
+
+## PAB Meetings
+
+## Snackapalooza
